@@ -31,7 +31,7 @@ Program ini dibuat untuk melakukan perbandingan penjualan obat dengan menggunaka
     ```bash
     python main.py
     ```
-8. Program akan berjalan dan menampilkan output prediksi penjualan obat.
+8. Program akan berjalan dan menampilkan output prediksi penjualan obat dalam bentuk data visualization dan data file .csv
 
 
 ### Output Yang Dihasilkan
